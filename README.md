@@ -77,6 +77,7 @@ Clone and run locally:
 git clone https://github.com/YedumSy/Neon-Calculator.git
 cd Neon-Calculator
 open index.html
+```
 📝 Future Enhancements
 Advanced scientific calculator mode
 
