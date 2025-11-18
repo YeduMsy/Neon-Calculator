@@ -1,86 +1,89 @@
-🌌 Neon Calculator
+# 🌌 Neon Calculator
 
-A sleek, glowing Neon-themed Calculator built using HTML, CSS, and JavaScript.
+A sleek, glowing **Neon-themed Calculator** built using **HTML, CSS, and JavaScript**.  
 Designed for smooth interactions, clean UI, and a futuristic aesthetic.
 
-✨ Preview
+---
+
+## ✨ Preview
 
 Here’s a demonstration of the calculator in action:
 
-(The GIF from your repo’s screenie folder will appear here automatically)
-
 ![Neon Calculator Demo](./screenie/calc_rec.gif)
 
-🎨 Features
+---
 
-⚡ Smooth neon glow effects
+## 🎨 Features
 
-🎛️ Responsive design
+- ⚡ Smooth neon glow effects  
+- 🎛️ Responsive design  
+- 🔢 Supports all basic arithmetic operations  
+- 🎯 Clean, minimal, aesthetic UI  
+- 🖱️ Button press animations  
+- 🌙 Stylish display panel  
 
-🔢 Supports all basic arithmetic operations
+---
 
-🎯 Clean, minimal, aesthetic UI
+## 🛠️ Tech Stack
 
-🖱️ Button press animations
+- **HTML5**  
+- **CSS3** (Neon glow, grid layout, animations)  
+- **JavaScript** (Calculator logic)
 
-🌙 Stylish display panel
+---
 
-🛠️ Tech Stack
-
-HTML5
-
-CSS3 (Neon glow, grid layout, animations)
-
-JavaScript (Calculator logic)
-
-🚀 Live Demo
+## 🚀 Live Demo
 
 Click to use it instantly:
 
-👉 https://yedumsy.github.io/Neon-Calculator/
+👉 **https://yedumsy.github.io/Neon-Calculator/**
 
-📂 Folder Structure
+---
+
+## 📂 Folder Structure
+
 Neon-Calculator/
 │── index.html
 │── style.css
 │── script.js
 │── screenie/
-│     └── calc_rec.gif
+│ └── calc_rec.gif
 │── README.md
 
-🧩 How It Works
-🔹 Button Interactions
+yaml
+Copy code
 
-Every button triggers an event → updates the display → executes JS logic.
+---
 
-🔹 Operation Flow
+## 🧩 How It Works
 
-User inputs numbers
+### 🔹 Button Interactions  
+Each button triggers an event → updates the display → runs JS logic.
 
-JS stores operator & value
+### 🔹 Operation Flow  
+1. User inputs numbers  
+2. JS stores operator & value  
+3. Press “=” → expression gets evaluated  
+4. Display updates with the result  
 
-Press "=" → expression evaluated
+---
 
-Display updates with result
-
-⚙️ Local Setup
+## ⚙️ Local Setup
 
 Clone and run locally:
 
+```bash
 git clone https://github.com/YedumSy/Neon-Calculator.git
 cd Neon-Calculator
 open index.html
-
 📝 Future Enhancements
-
 Advanced scientific calculator mode
 
-Dark/Light toggle
+Dark/Light mode toggle
 
 Sound effects
 
-Mobile-optimized redesign
+Mobile-optimized UI
 
-💙 Credits
-
+Credits
 Me
