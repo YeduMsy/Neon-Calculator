@@ -9,7 +9,10 @@ Designed for smooth interactions, clean UI, and a futuristic aesthetic.
 
 Here’s a demonstration of the calculator in action:
 
-![Neon Calculator Demo](./screenie/calc_rec.gif)
+<p align="center">
+  <img src="./screenie/calc_rec.gif" width="400px">
+</p>
+
 
 ---
 
@@ -49,9 +52,6 @@ Neon-Calculator/
 │── screenie/
 │ └── calc_rec.gif
 │── README.md
-
-yaml
-Copy code
 
 ---
 
