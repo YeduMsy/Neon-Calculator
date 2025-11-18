@@ -44,7 +44,7 @@ Click to use it instantly:
 ---
 
 ## 📂 Folder Structure
-
+```text
 Neon-Calculator/
 │── index.html
 │── style.css
@@ -54,6 +54,7 @@ Neon-Calculator/
 │── README.md
 
 ---
+```
 
 ## 🧩 How It Works
 
